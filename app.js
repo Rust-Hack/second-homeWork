@@ -135,5 +135,5 @@ switch(turist){
         console.log('на восток пойдешь разработчиком станешь');
         break;
     default:
-        alert('Попробуйте еще раз');
+        console.log('Попробуйте еще раз');
 }
